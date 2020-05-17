@@ -1,2 +1,1 @@
-"# python biginner" 
-"# python beginner's note" 
+python beginner's note
